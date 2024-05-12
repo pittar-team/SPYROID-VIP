@@ -41,6 +41,7 @@ TB6rKqKyHv6oSxRufQBdxhfMsf4p6nEhfJ
 - Remote Screen ( coming soon )
 - Crypter Make FUD Apk ( coming soon )
 - Wipe out device ( coming soon )
+- anti delete ( coming soon )
 
 
 ## Screenshots
