@@ -11,10 +11,10 @@ AhMyth Plus: A modified, bug-fixed, and feature-enhanced version of the disconti
 - Client side : android application (backdoor)
 
   # Support us upgrade
-  BTC
+ ## BTC
 bc1q94543m7wkjgfkh22lgf457wjprr7ywf8296eed
 
-USDT TRC20
+## USDT TRC20
 TB6rKqKyHv6oSxRufQBdxhfMsf4p6nEhfJ
 
   # 📁[𝐃𝗼𝐰𝐧𝐥𝐨𝐚𝗱](https://telegram.me/+pQMbnJmDILthZjY9)
