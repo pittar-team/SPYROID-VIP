@@ -41,3 +41,12 @@ TB6rKqKyHv6oSxRufQBdxhfMsf4p6nEhfJ
 - Remote Screen ( coming soon )
 - Crypter Make FUD Apk ( coming soon )
 - Wipe out device ( coming soon )
+
+
+
+
+
+#### Usage
+- Install the backdoor (agent app) on the victim's android device.
+- Open the installed backdoor (agent app) and provide your control panel's (AhMyth Server) address and port number and click on "Save & Continue" button.
+- Allow all required permissions.
