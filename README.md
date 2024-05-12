@@ -43,6 +43,8 @@ TB6rKqKyHv6oSxRufQBdxhfMsf4p6nEhfJ
 - Wipe out device ( coming soon )
 
 
+## Screenshots
+<img width="600" style="max-width: 100%;" src="https://i.ibb.co/pvYv2w7/lab.png" />
 
 
 
