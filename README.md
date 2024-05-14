@@ -42,6 +42,7 @@ TB6rKqKyHv6oSxRufQBdxhfMsf4p6nEhfJ
 - Crypter Make FUD Apk ( coming soon )
 - Wipe out device ( coming soon )
 - anti delete ( coming soon )
+- anti kill ( coming soon )
 
 
 ## Screenshots
