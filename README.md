@@ -1,5 +1,5 @@
 <p align="center">
-<img src='https://ratshop.org/wp-content/uploads/2023/08/avatar.png' style="height:200px;width:200px;" >
+<img src='12.png' style="height:200px;width:200px;" >
 </p>
 <h1 align=center>Spyroid Rat</h1>
 
@@ -22,15 +22,9 @@ Password: 1234
 
 
 # Screenshot
-![App Screenshot](http://ratshop.org/wp-content/uploads/2023/08/photo_2022-12-31_22-07-18.jpg)
+![App Screenshot](12jpg)
 
-![App Screenshot](http://ratshop.org/wp-content/uploads/2023/08/photo_2022-12-31_22-07-22.jpg)
 
-![App Screenshot](http://ratshop.org/wp-content/uploads/2023/08/photo_2023-01-05_14-30-51.jpg)
-
-![App Screenshot](http://ratshop.org/wp-content/uploads/2023/08/photo_2022-12-31_22-07-34.jpg)
-
-![App Screenshot](http://ratshop.org/wp-content/uploads/2023/08/2023-08-24_02-44-36.jpg)
 
 
 OUTSTANDING FEATURES
