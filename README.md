@@ -7,7 +7,7 @@
 This private version of android rat We Start Work on Spyroid Rat as private project we promise to give private functions and work hard to give best service for our customers
 ## buy now
 <div align="center">
-  <a href="https://telegram.me/SpydroidRat">
+  <a href="https://telegram.me/+pQMbnJmDILthZjY9">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
   </a>
 </div>
